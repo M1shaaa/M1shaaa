@@ -19,6 +19,3 @@ predoctoral fellow @ stanford in cognitive science<br>UW-Madison '24 Economics &
 ![](https://github-contributor-stats.vercel.app/api?username=m1shaaa&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=m1shaaa&icon=3&color=13)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
