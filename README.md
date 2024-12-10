@@ -12,15 +12,25 @@
 <table border="0" cellspacing="0" cellpadding="0" style="border: none;">
 <tr>
 <td width="50%" align="center" valign="middle">
+  <h3 align="center">hi !</h3>
   <div align="left">
-    <h3 align="center">hi !</h3>
-    <p align="center">my name's misha--I'm a predoctoral fellow @ stanford in cognitive science<br><br>I graduated from UW-Madison in 2024 in econ & psych</p>
-<div align="center" style="padding-left: 25%">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/misha-o-keeffe-099348262/)
-  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mish_uhhh)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mokeeffe@stanford.edu)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://www.mishaokeeffe.com/)
-</div>
+    <p>my name's misha--I'm a predoctoral fellow @ stanford in cognitive science<br><br>I graduated from UW-Madison in 2024 in econ & psych</p>
+  </div>
+
+  <div align="center">
+    <a href="https://www.linkedin.com/in/misha-o-keeffe-099348262/">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://x.com/mish_uhhh">
+      <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
+    </a>
+    <a href="mailto:mokeeffe@stanford.edu">
+      <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://www.mishaokeeffe.com/">
+      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white" alt="Portfolio">
+    </a>
+  </div>
 </td>
 <td width="50%" align="center" valign="middle">
   <a href="https://open.spotify.com/user/j7wssy7dckrbqrh8dzqa4gfrb">
