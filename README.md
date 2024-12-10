@@ -1,9 +1,9 @@
 <!--
-  Hi there! This is a special GitHub profile README. 
-  This comment helps configure the profile view.
-  activity: false
-  repositories: false
+**M1shaaa/M1shaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<a href="#">
+  <img align="center" src="profile-repo-section" />
+</a>
 
 <div align="center">
   <img height="350" src="https://i.imgur.com/DOrHcQp.png"  />
