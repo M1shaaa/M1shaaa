@@ -26,7 +26,7 @@
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
     </a>
     <a href="https://www.mishaokeeffe.com/" target="_blank">
-      <img src="https://cdn.simpleicons.org/internetexplorer/white" width="52" height="40" alt="website logo" />
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/chrome/default.svg" width="52" height="40" alt="website logo"  />
     </a>
   </div>
 </td>
