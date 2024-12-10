@@ -16,6 +16,8 @@ predoctoral fellow @ stanford in cognitive science<br>UW-Madison '24 Economics &
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=m1shaaa&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&cache_seconds=0)
 
+<br>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=m1shaaa&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&cache_seconds=0&include_orgs=true)
 
