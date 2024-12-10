@@ -49,7 +49,7 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M1shaaa&radius=50&theme=cobalt&area=true&order=5&hide_border=true&hide_title=true" width="100%" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M1shaaa&radius=50&theme=cobalt&area=true&order=5&hide_border=true&hide_title=true&cache_seconds=0" width="100%" alt="activity-graph graph" />
 </div>
 
 <picture align="center">
