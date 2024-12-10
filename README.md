@@ -61,9 +61,7 @@
 ###
 <table border="0" cellspacing="0" cellpadding="0" style="border: none;">
 <tr>
-<td width="50%" align="center" valign="middle">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m1shaaa&theme=date_night&hide_border=false&cache_seconds=0&include_orgs=true" alt="GitHub Streak" />
-</td>
+![](https://github-readme-streak-stats.herokuapp.com/?user=m1shaaa&theme=date_night&hide_border=false&cache_seconds=0)
 <td width="50%" align="center" valign="middle">
   <img src="https://github-contributor-stats.vercel.app/api?username=m1shaaa&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&cache_seconds=0&include_orgs=true" alt="Top contributed repos" />
 </td>
