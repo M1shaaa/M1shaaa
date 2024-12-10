@@ -1,7 +1,6 @@
 <div align="center">
-  <img height="200" src="https://i.imgur.com/EPExmKZ.png"  />
+  <img height="200" src="https://i.imgur.com/82xGkE0.png"  />
 </div>
-
 
 ###
 <div align="center">
@@ -9,41 +8,46 @@
 </div>
 
 ###
-<h3 align="center">hi !</h3>
-
-###
-<p align="center">my name's misha--I'm a predoctoral fellow @ stanford in cognitive science<br><br>I graduated from UW-Madison in 2024 in econ & psych</p>
-
-###
-<div align="center">
-  <a href="https://www.linkedin.com/in/misha-o-keeffe-099348262/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/mish_uhhh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="mailto:mokeeffe@stanford.edu" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.mishaokeeffe.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/firefox/default.svg" width="52" height="40" alt="website logo"  />
-  </a>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div>
+    <h3>hi !</h3>
+    <p>my name's misha--I'm a predoctoral fellow @ stanford in cognitive science<br><br>I graduated from UW-Madison in 2024 in econ & psych</p>
+    
+    <div align="left">
+      <a href="https://www.linkedin.com/in/misha-o-keeffe-099348262/" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+      </a>
+      <a href="https://x.com/mish_uhhh" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+      </a>
+      <a href="mailto:mokeeffe@stanford.edu" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+      </a>
+      <a href="https://www.mishaokeeffe.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/website/default.svg" width="52" height="40" alt="website logo"  />
+      </a>
+    </div>
+  </div>
+  
+  <div>
+    <a href="https://open.spotify.com/user/j7wssy7dckrbqrh8dzqa4gfrb">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=j7wssy7dckrbqrh8dzqa4gfrb&unique=true&count=5" alt="Spotify recently played"  />
+    </a>
+  </div>
 </div>
 
 ###
 <div align="center">
-  <a href="https://open.spotify.com/user/j7wssy7dckrbqrh8dzqa4gfrb">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=j7wssy7dckrbqrh8dzqa4gfrb&unique=true&count=5" alt="Spotify recently played"  />
-  </a>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=m1shaaa&theme=date_night&hide_border=false&cache_seconds=0&include_orgs=true)
 </div>
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m1shaaa&theme=date_night&hide_border=false&include_all_commits=false&count_private=true&cache_seconds=0&include_orgs=true" alt="GitHub stats" />
+  <img src="https://github-profile-trophy.vercel.app?username=M1shaaa&theme=kimbie_dark&column=-1&row=1&margin-w=0&margin-h=1&no-bg=true&no-frame=true&order=4" width="100%" alt="trophy graph" />
   <br>
-  <img src="https://github-profile-trophy.vercel.app?username=M1shaaa&theme=kimbie_dark&column=-1&row=1&margin-w=0&margin-h=1&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M1shaaa&radius=50&theme=cobalt&area=true&order=5&hide_border=true&hide_title=true" width="100%" alt="activity-graph graph" />
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M1shaaa&radius=50&theme=cobalt&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph" />
+  <img src="https://github.com/M1shaaa/M1shaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ###
@@ -51,10 +55,6 @@
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=m1shaaa&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&cache_seconds=0&include_orgs=true" alt="Top contributed repos" />
 </div>
-
-###
-<br clear="both">
-<img src="https://raw.githubusercontent.com/M1shaaa/M1shaaa/output/snake.svg" alt="Snake animation" />
 
 ###
 <div align="center">
