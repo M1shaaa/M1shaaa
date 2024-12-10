@@ -12,9 +12,9 @@
 <td width="50%" align="center" valign="middle">
   <div align="left">
     <h3 align="center">hi !</h3>
-    <p>my name's misha--I'm a predoctoral fellow @ stanford in cognitive science<br><br>I graduated from UW-Madison in 2024 in econ & psych</p>
+    <p align="center">my name's misha--I'm a predoctoral fellow @ stanford in cognitive science<br><br>I graduated from UW-Madison in 2024 in econ & psych</p>
   </div>
-
+<br>
   <div align="center" style="padding-left: 25%">
     <a href="https://www.linkedin.com/in/misha-o-keeffe-099348262/" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
