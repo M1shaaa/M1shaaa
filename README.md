@@ -14,7 +14,7 @@
 <td width="50%" align="center" valign="middle">
   <h3 align="center">hi !</h3>
   <div align="left">
-    <p>my name's misha--I'm a predoctoral fellow @ stanford in cognitive science<br><br>I graduated from UW-Madison in 2024 in econ & psych</p>
+    <p align="center">my name's misha--I'm a predoctoral fellow @ stanford in cognitive science<br><br>I graduated from UW-Madison in 2024 in econ & psych</p>
     <br>
   </div>
 <div align="center" style="padding-left: 25%">
