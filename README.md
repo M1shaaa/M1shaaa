@@ -11,12 +11,11 @@ predoctoral fellow @ stanford in cognitive science<br>UW-Madison '24 Economics &
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=m1shaaa&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=0&include_orgs=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=m1shaaa&theme=date_night&hide_border=false&cache_seconds=0&include_orgs=true)
+<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=m1shaaa&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=0&include_orgs=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=m1shaaa&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&cache_seconds=0)
-
-<br>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=m1shaaa&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&cache_seconds=0&include_orgs=true)
