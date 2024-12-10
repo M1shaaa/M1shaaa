@@ -15,21 +15,11 @@
   <div align="left">
     <h3 align="center">hi !</h3>
     <p align="center">my name's misha--I'm a predoctoral fellow @ stanford in cognitive science<br><br>I graduated from UW-Madison in 2024 in econ & psych</p>
-  </div>
-<br>
-  <div align="center" style="padding-left: 25%">
-    <a href="https://www.linkedin.com/in/misha-o-keeffe-099348262/" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-    </a>
-    <a href="https://x.com/mish_uhhh" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-    </a>
-    <a href="mailto:mokeeffe@stanford.edu">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-    </a>
-    <a href="https://www.mishaokeeffe.com/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white" height="40" alt="website link"  />
-    </a>
+<div align="center" style="padding-left: 25%">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/misha-o-keeffe-099348262/)
+  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mish_uhhh)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mokeeffe@stanford.edu)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://www.mishaokeeffe.com/)
 </div>
 </td>
 <td width="50%" align="center" valign="middle">
