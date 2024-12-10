@@ -6,7 +6,7 @@
 -->
 
 <div align="center">
-  <img height="350" src="https://i.imgur.com/DOrHcQp.png"  />
+  <img height="350" src="https://i.imgur.com/DOrHcQp.png" style="border-radius: 30px />
 </div>
 
 ###
