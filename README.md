@@ -11,7 +11,7 @@
 <tr>
 <td width="50%" align="center" valign="middle">
   <div align="left">
-    <h3>hi !</h3>
+    <h3 align="center">hi !</h3>
     <p>my name's misha--I'm a predoctoral fellow @ stanford in cognitive science<br><br>I graduated from UW-Madison in 2024 in econ & psych</p>
   </div>
 
