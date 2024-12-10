@@ -26,7 +26,7 @@
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
     </a>
     <a href="https://www.mishaokeeffe.com/" target="_blank">
-      <img src="https://fonts.gstatic.com/s/i/materialicons/public/v12/24px.svg" width="52" height="40" alt="website logo" />
+      [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://www.mishaokeeffe.com/)
     </a>
   </div>
 </td>
