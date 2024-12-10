@@ -50,8 +50,6 @@
 ###
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=M1shaaa&radius=50&theme=cobalt&area=true&order=5&hide_border=true&hide_title=true" width="100%" alt="activity-graph graph" />
-  
-  <img src="https://github-profile-trophy.vercel.app?username=M1shaaa&theme=kimbie_dark&column=-1&row=1&margin-w=0&margin-h=1&no-bg=true&no-frame=true&order=4" width="100%" alt="trophy graph" />
 </div>
 
 <picture>
@@ -71,3 +69,5 @@
 </td>
 </tr>
 </table>
+<br>
+<img src="https://github-profile-trophy.vercel.app?username=M1shaaa&theme=kimbie_dark&column=-1&row=1&margin-w=0&margin-h=1&no-bg=true&no-frame=true&order=4" width="100%" alt="trophy graph" />
