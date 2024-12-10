@@ -3,7 +3,6 @@
   <img src="https://profile-counter.glitch.me/M1shaaa/count.svg?"  />
 </div>
 
-<br>
 
 <div align="center">
   <img height="200" src="https://i.imgur.com/82xGkE0.png"  />
