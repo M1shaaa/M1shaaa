@@ -66,10 +66,3 @@
     <img alt="github-snake" src="github-snake.svg" />
   </picture>
 </div>
-
-
-<div align="center">
-  <a href="#">
-    <img src="profile-repo-section" height="0" />
-  </a>
-</div>
