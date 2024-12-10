@@ -50,7 +50,6 @@
 ###
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=M1shaaa&radius=50&theme=cobalt&area=true&order=5&hide_border=true&hide_title=true" width="100%" alt="activity-graph graph" />
-  <sub>Activity up to December 10, 2024</sub>
 </div>
 
 <picture align="center">
