@@ -7,37 +7,53 @@
   <img src="https://profile-counter.glitch.me/M1shaaa/count.svg?"  />
 </div>
 
-###
-<div align="left">
-  <h3>hi !</h3>
-  <p>my name's misha--I'm a predoctoral fellow @ stanford in cognitive science<br><br>I graduated from UW-Madison in 2024 in econ & psych</p>
-</div>
+<table border="0" align="center">
+<tr>
+<td width="50%" valign="top">
+  <div align="left">
+    <h3>hi !</h3>
+    <p>my name's misha--I'm a predoctoral fellow @ stanford in cognitive science<br><br>I graduated from UW-Madison in 2024 in econ & psych</p>
+  </div>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/misha-o-keeffe-099348262/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/mish_uhhh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="mailto:mokeeffe@stanford.edu" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.mishaokeeffe.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/website/default.svg" width="52" height="40" alt="website logo"  />
-  </a>
-</div>
+  <div align="center" style="padding-left: 25%">
+    <a href="https://www.linkedin.com/in/misha-o-keeffe-099348262/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    </a>
+    <a href="https://x.com/mish_uhhh" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    </a>
+    <a href="mailto:mokeeffe@stanford.edu" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    </a>
+    <a href="https://www.mishaokeeffe.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/website/default.svg" width="52" height="40" alt="website logo"  />
+    </a>
+  </div>
+</td>
+<td width="50%" valign="top">
+  <div align="right">
+    <a href="https://open.spotify.com/user/j7wssy7dckrbqrh8dzqa4gfrb">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=j7wssy7dckrbqrh8dzqa4gfrb&unique=true&count=5" alt="Spotify recently played"  />
+    </a>
+  </div>
+</td>
+</tr>
+</table>
 
-<div align="right">
-  <a href="https://open.spotify.com/user/j7wssy7dckrbqrh8dzqa4gfrb">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=j7wssy7dckrbqrh8dzqa4gfrb&unique=true&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m1shaaa&theme=date_night&hide_border=false&cache_seconds=0&include_orgs=true" alt="GitHub Streak" />
-</div>
+<table border="0" align="center">
+<tr>
+<td width="50%" valign="top">
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=m1shaaa&theme=date_night&hide_border=false&cache_seconds=0&include_orgs=true" alt="GitHub Streak" />
+  </div>
+</td>
+<td width="50%" valign="top">
+  <div align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=m1shaaa&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&cache_seconds=0&include_orgs=true" alt="Top contributed repos" />
+  </div>
+</td>
+</tr>
+</table>
 
 ###
 <div align="center">
@@ -52,12 +68,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M1shaaa/M1shaaa/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/M1shaaa/M1shaaa/output/github-contribution-grid-snake.svg">
 </picture>
-
-###
-<h3 align="center">🔝 Top Contributed Repo</h3>
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=m1shaaa&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&cache_seconds=0&include_orgs=true" alt="Top contributed repos" />
-</div>
 
 ###
 <div align="center">
