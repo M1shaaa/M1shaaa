@@ -1,3 +1,10 @@
+<!--
+  Hi there! This is a special GitHub profile README. 
+  This comment helps configure the profile view.
+  activity: false
+  repositories: false
+-->
+
 <div align="center">
   <img height="350" src="https://i.imgur.com/DOrHcQp.png"  />
 </div>
