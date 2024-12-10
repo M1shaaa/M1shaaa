@@ -15,6 +15,7 @@
   <h3 align="center">hi !</h3>
   <div align="left">
     <p>my name's misha--I'm a predoctoral fellow @ stanford in cognitive science<br><br>I graduated from UW-Madison in 2024 in econ & psych</p>
+    <br>
   </div>
 <div align="center" style="padding-left: 25%">
     <a href="https://www.linkedin.com/in/misha-o-keeffe-099348262/" target="_blank">
