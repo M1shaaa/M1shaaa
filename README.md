@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.imgur.com/EPExmKZ.png"  />
+  <img height="600" src="https://i.imgur.com/EPExmKZ.png"  />
 </div>
 
 ###
@@ -31,8 +31,8 @@
 
 ###
 <div align="center">
-  <a href="https://open.spotify.com/user/mishaaaa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=mishaaaa&count=5&unique=true" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/j7wssy7dckrbqrh8dzqa4gfrb">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=j7wssy7dckrbqrh8dzqa4gfrb&unique=true&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
