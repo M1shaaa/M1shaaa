@@ -16,19 +16,18 @@
   <div align="left">
     <p>my name's misha--I'm a predoctoral fellow @ stanford in cognitive science<br><br>I graduated from UW-Madison in 2024 in econ & psych</p>
   </div>
-
-  <div align="center">
-    <a href="https://www.linkedin.com/in/misha-o-keeffe-099348262/">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+<div align="center" style="padding-left: 25%">
+    <a href="https://www.linkedin.com/in/misha-o-keeffe-099348262/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
     </a>
-    <a href="https://x.com/mish_uhhh">
-      <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
+    <a href="https://x.com/mish_uhhh" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
     </a>
-    <a href="mailto:mokeeffe@stanford.edu">
-      <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail">
+    <a href="mailto:mokeeffe@stanford.edu" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
     </a>
-    <a href="https://www.mishaokeeffe.com/">
-      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white" alt="Portfolio">
+    <a href="https://www.mishaokeeffe.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white" height="40" alt="website link"  />
     </a>
   </div>
 </td>
