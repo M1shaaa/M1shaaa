@@ -6,7 +6,7 @@
 -->
 
 <div align="center">
-  <img height="350" src="https://i.imgur.com/DOrHcQp.png" style="border-radius: 50px" />
+  <kbd><img height="350" src="https://i.imgur.com/DOrHcQp.png" /></kbd>
 </div>
 
 ###
