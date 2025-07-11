@@ -10,9 +10,7 @@
 </div>
 
 ###
-<div align="center">
-  <img src="https://profile-counter.glitch.me/M1shaaa/count.svg?"  />
-</div>
+<a href="https://u8views.com/github/M1shaaa"><img src="https://u8views.com/api/v1/github/profiles/125500080/views/day-week-month-total-count.svg"></a>
 
 <br>
 
