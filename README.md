@@ -1,6 +1,5 @@
 <!--
-  Hi there! This is a special GitHub profile README. 
-  This comment helps configure the profile view.
+  Hi there!
   activity: false
   repositories: false
 -->
@@ -10,7 +9,11 @@
 </div>
 
 ###
-<a href="https://u8views.com/github/M1shaaa"><img src="https://u8views.com/api/v1/github/profiles/125500080/views/day-week-month-total-count.svg"></a>
+<div align="center">
+  <a href="https://u8views.com/github/M1shaaa">
+    <img src="https://u8views.com/api/v1/github/profiles/125500080/views/day-week-month-total-count.svg">
+  </a>
+</div>
 
 <br>
 
