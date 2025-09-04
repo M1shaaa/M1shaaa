@@ -60,15 +60,4 @@
 </picture>
 
 ###
-<table border="0" cellspacing="0" cellpadding="0" style="border: none;">
-<tr>
-<td width="50%" align="center" valign="middle">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m1shaaa&theme=date_night&hide_border=false&cache_seconds=0" alt="GitHub Streak" />
-</td>
-<td width="50%" align="center" valign="middle">
-  <img src="https://github-contributor-stats.vercel.app/api?username=m1shaaa&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&cache_seconds=0&include_orgs=true" alt="Top contributed repos" />
-</td>
-</tr>
-</table>
-<br>
 <img src="https://github-profile-trophy.vercel.app?username=M1shaaa&theme=kimbie_dark&column=-1&row=1&margin-w=0&margin-h=1&no-bg=true&no-frame=true&order=4" width="100%" alt="trophy graph" />
