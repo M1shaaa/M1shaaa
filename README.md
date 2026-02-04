@@ -58,6 +58,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M1shaaa/M1shaaa/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/M1shaaa/M1shaaa/output/github-contribution-grid-snake.svg" />
 </picture>
-
-###
-<img src="https://github-profile-trophy.vercel.app?username=M1shaaa&theme=kimbie_dark&column=-1&row=1&margin-w=0&margin-h=1&no-bg=true&no-frame=true&order=4" width="100%" alt="trophy graph" />
